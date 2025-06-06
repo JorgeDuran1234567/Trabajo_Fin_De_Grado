@@ -1,0 +1,264 @@
+[
+  {
+    "nombre": "GALICIA",
+    "historia":
+        "Hay dos grandes hitos que marcaron para siempre la evolución de la historia de la gastronomía gallega: la conquista de América y la revolución industrial. \r\nCon la conquista de América llegaron ingredientes nuevos que poco tardaron en incorporarse a las recetas tradicionales como el caso del maíz, la patata o el pimiento. La revolución industrial supuso un antes y un después en el sector de la pesca que dio lugar a especies que, hasta el momento, no se consumían.",
+    "recetas": [
+      "Pulpo á feira",
+      "Pimientos de Padrón",
+      "Lacón con grelos",
+      "Caldo gallego",
+      "Xoubas",
+      "Zamburiñas gallegas",
+      "Almejas a la marinera",
+	  "Vieiras a la gallega",
+    ]
+  },
+  {
+    "nombre": "ASTURIAS",
+    "historia":
+      "Desde la antigüedad, la gastronomía asturiana ha sido una mezcla de influencias celtas, romanas, musulmanas y cristianas, lo que la ha llevado a tener una cocina única y variada. Desde la Edad Media hasta nuestros días, la cocina asturiana ha cambiado y se ha modernizado, pero siempre ha mantenido sus raíces y su autenticidad."
+    ,
+    "recetas": [
+      "Fabada asturiana",
+      "Cachopo",
+      "Pixín",
+	  "Chorizo a la sidra",
+	  "Pote asturiano",
+	  "Arroz con leche",
+      "Arroz con pitu de caleya"
+    ]
+  },
+  {
+    "nombre": "NAVARRA",
+    "historia": 
+      "Cuenta con una cocina que mezcla la influencia pirenaica, atlántica y mediterránea. Se caracteriza por su excelente producto agrícola y ganadero. La tradición culinaria navarra es sólida y ha sabido modernizarse manteniendo el apego a la tierra."
+    ,
+    "recetas": [
+      "Patorrillo",
+      "Zurrukutuna",
+	  "Pimientos del piquillo rellenos",
+	  "Estofado de toro",
+	  "Cordero al chilindrón",
+      "Pochas con anguila",
+      "Txuritabeltz"
+    ]
+  },
+  {
+    "nombre": "CANTABRIA",
+    "historia": 
+      "Combina mar y montaña, con productos lácteos, carnes y pescados como base. Su cocina es tradicional, contundente y adaptada al clima atlántico. Hoy convive lo rural con propuestas culinarias modernas que respetan el producto local."
+    ,
+    "recetas": [
+      "Cocido Montañés",
+      "Rabas",
+	  "Sorropotún",
+      "Sobaos Pasiegos",
+	  "Almejas a la marinera",
+      "Anchoas de Santoña",
+	  "Cocido Lebaniego"
+    ]
+  },
+  {
+    "nombre": "CATALUÑA",
+    "historia": 
+      "Se caracteriza por su riqueza y diversidad, fruto de la combinación entre mar, montaña y huerta. Su cocina refleja una fuerte identidad cultural y un equilibrio entre tradición y creatividad. El uso de productos locales y de temporada es clave, con una larga historia de evolución culinaria que sigue viva hoy en día."
+    ,
+    "recetas": [
+      "Calçot/Calsot",
+      "Escalivada",
+      "Esqueixada",
+	  "Pa amb tomàquet",
+	  "Suquet de peix",
+      "Fricandó",
+	  "Crema catalana"
+    ]
+  },
+  {
+    "nombre": "PAIS VASCO",
+    "historia": 
+      "Tiene una de las identidades gastronómicas más fuertes de Europa. Su cocina valora el producto local y la excelencia en la elaboración. Ha sabido unir una sólida tradición culinaria con innovación constante, formando parte esencial de su cultura."
+    ,
+    "recetas": [
+      "Bacalao al pil-pil",
+      "Marmitako",
+      "Txangurro",
+	  "Merluza a la koskera",
+	  "Alubias de Tolosa",
+      "Pimientos de Gernika"
+    ]
+  },
+  {
+    "nombre": "ARAGON",
+    "historia": 
+      "Presenta una cocina sobria y de montaña, basada en carnes, legumbres y productos de la huerta. Su gastronomía refleja el estilo tradicional de interior, con una fuerte identidad ligada a la tierra. Mantiene vivas costumbres culinarias transmitidas durante generaciones."
+    ,
+    "recetas": [
+      "Ternasco asado",
+      "Bacalao ajoarriero",
+      "Borrajas con patata",
+	  "Longaniza de Graus",
+	  "Pollo al chilindrón",
+      "Guirlache"
+    ]
+  },
+  {
+    "nombre": "COMUNIDAD VALENCIANA",
+    "historia": 
+      "Es profundamente mediterránea, con una fuerte relación con el arroz, la huerta y el mar. Su cocina tradicional se ha mantenido viva en la vida cotidiana y festiva. Refleja una cultura culinaria de raíces agrícolas y pesqueras."
+    ,
+    "recetas": [
+      "Paella valenciana",
+      "Fideuà",
+      "Arroz al horno",
+	  "Horchata con fartons",
+	  "Esgarraet",
+      "All i pebre"
+    ]
+  },
+  {
+    "nombre": "MURCIA",
+    "historia": 
+      "Es mediterránea y de huerta, con gran protagonismo de frutas, verduras y arroces. La cocina refleja una tradición agrícola profunda y una identidad culinaria muy ligada al territorio. La variedad de paisajes enriquece su recetario."
+    ,
+    "recetas": [
+      "Arroz caldero",
+      "Paparajotes",
+	  "Michirones",
+	  "Zarangollo",
+	  "Caldero del Mar Menor",
+      "Michirones",
+      "Pastel de carne"
+    ]
+  },
+  {
+    "nombre": "ANDALUCIA",
+    "historia": 
+      "Es reflejo de su herencia árabe, mediterránea y campesina. Se caracteriza por el uso del aceite de oliva, productos frescos y técnicas sencillas. La cocina es variada, marcada por el clima cálido y la influencia de múltiples culturas a lo largo de la historia."
+    ,
+    "recetas": [
+      "Gazpacho",
+      "Salmorejo",
+      "Pescaíto frito",
+	  "Choco frito",
+	  "Tortillitas de camarones",
+	  "Rabo de toro",
+      "Flamenquín"
+    ]
+  },
+  {
+    "nombre": "EXTREMADURA",
+    "historia": 
+      "Es rural, austera y basada en el aprovechamiento del producto local. Se caracteriza por su tradición ganadera, especialmente del cerdo ibérico, y por una identidad culinaria marcada por la sencillez y el sabor. El pasado histórico influye notablemente en sus costumbres."
+    ,
+    "recetas": [
+      "Caldereta de cordero",
+      "Zorongollo",
+	  "Migas extremeñas",
+	  "Cordero a la cacereña",
+      "Chanfaina Extremeña",
+      "Torta del Casar"
+    ]
+  },
+  {
+    "nombre": "CASTILLA Y LEON",
+    "historia": 
+      "Tiene una gastronomía de interior, basada en carnes, embutidos, legumbres y repostería tradicional. Es una cocina sobria, con fuerte arraigo histórico, que refleja el carácter agrícola y ganadero de la región. La tradición es su principal valor culinario."
+    ,
+    "recetas": [
+      "Lechazo asado",
+      "Cochinillo",
+      "Morcilla de Burgos",
+	  "Botillo del Bierzo",
+	  "Hornazo",
+      "Judiones de La Granja"
+    ]
+  },
+  {
+    "nombre": "MADRID",
+    "historia": 
+      "Ha construido una cocina propia a partir del mestizaje de tradiciones regionales españolas. Su gastronomía combina lo castizo con influencias modernas y cosmopolitas. Es reflejo de su papel como capital, donde conviven lo tradicional y lo contemporáneo."
+    ,
+    "recetas": [
+      "Cocido madrileño",
+      "Entresijos y gallinejas",
+      "Huevos estrellados",
+	  "Bocadillo de calamares",
+      "Callos a la madrileña",
+	  "Rosquillas de San Isidro"
+    ]
+  },
+  {
+    "nombre": "CASTILLA LA MANCHA",
+    "historia": 
+      "Es austera, pastoril y muy ligada al campo. Destaca por el uso del pan, el queso, el vino y productos de caza. Refleja una cultura gastronómica sencilla pero rica en identidad histórica y rural."
+    ,
+    "recetas": [
+      "Gachas manchegas",
+      "Migas ruleras",
+      "Atascaburras",
+	  "Duelos y quebrantos",
+	  "Carcamusas",
+      "Morteruelo"
+    ]
+  },
+  {
+    "nombre": "LA RIOJA",
+    "historia": 
+      "Está profundamente ligada al vino, la huerta y la cultura agrícola. Es una gastronomía de interior, con raíces populares y recetas que han perdurado gracias a la tradición familiar. La tierra y el clima definen su identidad culinaria."
+    ,
+    "recetas": [
+	  "Patatas a la riojana",
+      "Bacalao a la riojana",
+      "Fardelejos",
+	  "Chuletillas al sarmiento",
+      "Caparrones",
+      "Bacalao a la riojana"
+    ]
+  },
+  {
+    "nombre": "ISLAS BALEARES",
+    "historia": 
+      "Tienen una cocina mediterránea con influencias catalanas y árabes. La gastronomía se basa en productos locales y técnicas de conservación antiguas. El carácter insular se refleja en una cocina que une mar y tierra con fuerte identidad.",
+	  
+    "recetas": [
+      "Coca de trampó",
+      "Frito mallorquín",
+	  "Caldereta de langosta",
+	  "Coca de trampó",
+      "Tumbet",
+      "Arroz brut"
+    ]
+  },
+  {
+    "nombre": "ISLAS CANARIAS",
+    "historia": 
+      "Es fruto del mestizaje entre tradiciones guanches, españolas y latinoamericanas. Se basa en productos autóctonos, como el gofio o las papas, y en sabores sencillos pero intensos. Su gastronomía refleja el aislamiento y la diversidad del archipiélago.",
+      
+    "recetas": [
+      "Papas arrugadas con mojo",
+      "Gofio escaldado",
+	  "Bienmesabe",
+	  "Sancocho",
+	  "Conejo en salmorejo",
+      "Ropa vieja canaria",
+      "Potaje de berros"
+    ]
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
